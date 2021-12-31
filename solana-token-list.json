@@ -38023,7 +38023,7 @@
       "twitter": "https://twitter.com/VeraSaw",
       "website": "https://verasaw.io"
     },
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5UmAAf8hHJe81DwSi1n2ZhfkmAqg9ABdK36oKKgh7iBL/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5UmAAf8hHJe81DwSi1n2ZhfkmAqg9ABdK36oKKgh7iBL/logo1.png",
     "name": "VeraSaw",
     "symbol": "VRSW"
   },
@@ -48656,9 +48656,9 @@
     "address": "5DmWkHuc6YwWGSQmAS39BvWqKL7q5k3PfSobPQ6eYjSf",
     "chainId": 101,
     "decimals": 0,
-    "logoURI": "https://raw.githubusercontent.com/KyleF0X/crypto/main/AliceCoin.png",
+    "logoURI": "https://raw.githubusercontent.com/KyleF0X/crypto/main/AliceCoinNew.png",
     "name": "Alice Coin",
-    "symbol": "ALICE",
+    "symbol": "ALC",
     "tags": [
       "social-token",
       "utility-token",
@@ -48680,7 +48680,7 @@
     "address": "3TUw5cHyMAwzXU6JqarUwizYdzdfqxvAJBcWeFHcZyiK",
     "chainId": 101,
     "decimals": 0,
-    "logoURI": "https://raw.githubusercontent.com/KyleF0X/crypto/main/GrantCoin.png",
+    "logoURI": "https://raw.githubusercontent.com/KyleF0X/crypto/main/GrantCoinNew.png",
     "name": "Grant Coin",
     "symbol": "GRNT",
     "tags": [
@@ -55105,7 +55105,7 @@
     "address": "6dSCqdomPGZCG3Vufoo1LLDGNZfa1v4ocjUKR1Tr1n66",
     "chainId": 101,
     "decimals": 9,
-    "logoURI": "https://github.com/testsystemca/blcksgn/blob/main/Logo.png",
+    "logoURI": "https://raw.githubusercontent.com/testsystemca/blcksgn/main/Logo.png",
     "name": "BLOCK SIGN",
     "symbol": "BLCK",
     "tags": ["social-token"]
@@ -55686,5 +55686,139 @@
     "name": "SOLMOSQUITO",
     "symbol": "MOSQ",
     "tags": ["social-token"]
+  },
+  {
+    "address": "GV3MjuGin8aTG6Rhc1vR1QFYp8gq5vW39jnNPLrbzmPi",
+    "chainId": 101,
+    "decimals": 6,
+    "logoURI": "https://creatorpro.live/simbolo-creator.png",
+    "name": "creatorPRO",
+    "symbol": "creatorpro",
+    "tags": ["creator", "creators", "creator-token", "artist"]
+  },
+  {
+    "address": "H2rMQMa6kPpWwg2GraKyiiPwnayDBoBNg9WNVuafqXKc",
+    "chainId": 101,
+    "decimals": 6,
+    "logoURI": "https://creatorpro.live/simbolo-creator.jpg",
+    "name": "creator",
+    "symbol": "creator",
+    "tags": ["creator", "creators", "creator-token", "artist"]
+  },
+  {
+    "address": "ArGak2wW1RSyXfcAnn2jdoE1nCAExRF5ex8EBpFK62KZ",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/R0ADY/slak/main/slakcoin.png",
+    "name": "Slakcoin",
+    "symbol": "SLAK",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "FzJSvLESU8uSiKvbvRj6qbBisXAvRrNRcCQMEN3qJqmZ",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://github.com/Xenodoche/Crypto/blob/main/XenodochE.png",
+    "name": "Xenodoche Coin",
+    "symbol": "XDOCHE",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "Fsa1N5n3yF3aguZz2cpfPyJ5W1QKmqii5EqSGQSzRAQZ",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/mcobbilo/crypto/main/golfer.png?",
+    "name": "GOLF Coin",
+    "symbol": "GOLF",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "HQHVTrx6BVYupT2FfdoSFK5HmDzQLh2a21aKopnQYLaX",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/markkeelan/crypto/main/Lwfs%20icon.png",
+    "name": "LIVINGWATER",
+    "symbol": "LWCC",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "D1iisc5oAARTFonV2mQ3p7SEV7NdCVkKRgG4v5eF2k8k",
+    "chainId": 101,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D1iisc5oAARTFonV2mQ3p7SEV7NdCVkKRgG4v5eF2k8k/logo.png",
+    "name": "Kiwi Launcher (KWL)",
+    "symbol": "KWL"
+  },
+  {
+    "address": "2GTmJVSDNyhgvRfw4wP6yJGY3EhTpHm27M8cBMa4noNm",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/thatdishguy/SBN/main/logo.png",
+    "name": "SKYWEST SBN",
+    "symbol": "SKWSBN",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "31Zd6HM1cAjLxWYaUmmnNp35JSvGujgqmwyKZwjdDvHG",
+    "chainId": 101,
+    "decimals": 0,
+    "extensions": {
+      "twitter": "https://twitter.com/BobahBalls"
+    },
+    "logoURI": "https://raw.githubusercontent.com/bobah-balls/crypto/main/logo.png",
+    "name": "Bobah Balls",
+    "symbol": "BOBAH",
+    "tags": ["social-token", "nft-token"]
+  },
+  {
+    "address": "4VhkFbAy6zL6yvaJsnArNkM5AabHgDj3yCojMj76HiXD",
+    "chainId": 101,
+    "decimals": 0,
+    "logoURI": "https://raw.githubusercontent.com/Cryptoinviter/CINVI/main/Cinvi.png",
+    "name": "CRYPTOINVITER",
+    "symbol": "CINVI",
+    "tags": [
+      "social-token",
+      "metaverse",
+      "gaming-token",
+      "gamble-token",
+      "auction"
+    ]
+  },
+  {
+    "address": "AQxde8jgvxgkTcovbae1CvaRpfVsovB26wTrdgyVkAKA",
+    "chainId": 103,
+    "decimals": 9,
+    "extensions": {
+      "website": "https://timebitlaw.com"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AQxde8jgvxgkTcovbae1CvaRpfVsovB26wTrdgyVkAKA/logo.svg",
+    "name": "Token of TimeStore",
+    "symbol": "BEAN",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "6Mdq1QmqbWLejtSsvHVXc5HtTkztVTHgdb2EJUtCMRMq",
+    "chainId": 103,
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6Mdq1QmqbWLejtSsvHVXc5HtTkztVTHgdb2EJUtCMRMq/logo.png",
+    "name": "X-mas Token",
+    "symbol": "XMT",
+    "tags": ["social-token"]
+  },
+  {
+    "address": "6kR8XurNwjJZXGrTEBA8WtJtps7TAUjdX1oJhu1tyBVK",
+    "chainId": 101,
+    "decimals": 9,
+    "extensions": {
+      "facebook": "https://www.facebook.com/profile.php?id=100076475235846",
+      "github": "https://github.com/Partner-Angola",
+      "instagram": "https://www.instagram.com/angola_partner",
+      "telegram": "https://t.me/AngolaCS",
+      "twitter": "https://twitter.com/ANGOLApartner"
+    },
+    "logoURI": "https://raw.githubusercontent.com/Partner-Angola/token-list/main/assets/mainnet/6kR8XurNwjJZXGrTEBA8WtJtps7TAUjdX1oJhu1tyBVK/logo.png",
+    "name": "ANGOLA",
+    "symbol": "AGLA"
   }
 ]
