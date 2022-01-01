@@ -1,6 +1,7 @@
 [
   {
     "address": "EnWtE8QEWYGkbVknjodYmnZPFt7Fpk9U9cBRpXY5e1Gh",
+    "description": "Cashio’s Memecoin #gmoo",
     "govToken": {
       "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
       "chainId": 101,
@@ -23,6 +24,7 @@
   },
   {
     "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
+    "description": "AMM for mean-reverting trading pairs on Solana",
     "govToken": {
       "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
       "chainId": 101,
