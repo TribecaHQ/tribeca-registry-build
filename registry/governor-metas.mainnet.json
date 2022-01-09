@@ -2,6 +2,9 @@
   {
     "address": "EnWtE8QEWYGkbVknjodYmnZPFt7Fpk9U9cBRpXY5e1Gh",
     "description": "Cashio’s Memecoin #gmoo",
+    "gauge": {
+      "gaugemeister": "3zfW5niUjbGucfp81ksTwD7PHafadWXmUZWebQZWQnio"
+    },
     "govToken": {
       "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
       "chainId": 101,
@@ -45,7 +48,13 @@
     },
     "govTokenMint": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+    "links": {
+      "forum": "https://gov.saber.so"
+    },
     "name": "Saber",
+    "proposals": {
+      "requiredDiscussionLink": "https://gov.saber.so/c/saber-community-proposals/6"
+    },
     "slug": "sbr"
   },
   {
