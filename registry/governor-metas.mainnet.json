@@ -20,49 +20,12 @@
       "symbol": "COW",
       "tags": ["governance-token"]
     },
-    "govTokenMint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
     "minter": {
       "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo"
     },
     "name": "Cash Cow DAO",
     "slug": "cow"
-  },
-  {
-    "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
-    "description": "AMM for mean-reverting trading pairs on Solana",
-    "govToken": {
-      "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-      "chainId": 101,
-      "decimals": 6,
-      "extensions": {
-        "coingeckoId": "saber",
-        "discord": "https://chat.saber.so",
-        "github": "https://github.com/saber-hq",
-        "medium": "https://blog.saber.so",
-        "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
-        "twitter": "https://twitter.com/saber_hq",
-        "waterfallbot": "https://bit.ly/SBRwaterfall",
-        "website": "https://saber.so"
-      },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
-      "name": "Saber Protocol Token",
-      "symbol": "SBR"
-    },
-    "govTokenMint": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
-    "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
-    "links": {
-      "forum": "https://gov.saber.so"
-    },
-    "minter": {
-      "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
-      "redeemer": "CL9wkGFT3SZRRNa9dgaovuRV7jrVVigBUZ6DjcgySsCU"
-    },
-    "name": "Saber",
-    "proposals": {
-      "requiredDiscussionLink": "https://gov.saber.so/c/saber-community-proposals/6"
-    },
-    "slug": "sbr"
   },
   {
     "address": "3QdRG4feNfDqZ3GpSVGwW6hnSHb7AZ5BAcoKCpV9t2xr",
@@ -83,7 +46,6 @@
       "name": "Pole Aggregator Governance Token",
       "symbol": "POLE"
     },
-    "govTokenMint": "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
     "name": "Pole",
     "slug": "pole"
@@ -110,9 +72,49 @@
       "name": "Port Finance Token",
       "symbol": "PORT"
     },
-    "govTokenMint": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y",
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
     "name": "Port",
     "slug": "port"
+  },
+  {
+    "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
+    "description": "AMM for mean-reverting trading pairs on Solana",
+    "govToken": {
+      "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "saber",
+        "discord": "https://chat.saber.so",
+        "github": "https://github.com/saber-hq",
+        "medium": "https://blog.saber.so",
+        "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+        "twitter": "https://twitter.com/saber_hq",
+        "waterfallbot": "https://bit.ly/SBRwaterfall",
+        "website": "https://saber.so"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+      "name": "Saber Protocol Token",
+      "symbol": "SBR"
+    },
+    "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+    "links": {
+      "app": "https://app.saber.so",
+      "discord": "https://chat.saber.so",
+      "forum": "https://gov.saber.so",
+      "github": "https://github.com/saber-hq",
+      "medium": "https://blog.saber.so",
+      "twitter": "https://twitter.com/saber_hq",
+      "website": "https://saber.so"
+    },
+    "minter": {
+      "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
+      "redeemer": "CL9wkGFT3SZRRNa9dgaovuRV7jrVVigBUZ6DjcgySsCU"
+    },
+    "name": "Saber",
+    "proposals": {
+      "requiredDiscussionLink": "https://gov.saber.so/c/saber-community-proposals/6"
+    },
+    "slug": "sbr"
   }
 ]
