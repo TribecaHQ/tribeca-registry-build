@@ -22,6 +22,9 @@
     },
     "govTokenMint": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+    "minter": {
+      "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo"
+    },
     "name": "Cash Cow DAO",
     "slug": "cow"
   },
@@ -50,6 +53,10 @@
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
     "links": {
       "forum": "https://gov.saber.so"
+    },
+    "minter": {
+      "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
+      "redeemer": "CL9wkGFT3SZRRNa9dgaovuRV7jrVVigBUZ6DjcgySsCU"
     },
     "name": "Saber",
     "proposals": {
