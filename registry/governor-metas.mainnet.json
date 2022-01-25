@@ -272,7 +272,7 @@
         "prefix": "https://gov.saber.so/t/",
         "required": true
       },
-      "notice": ""
+      "notice": "To create a proposal, first make a post on the [Saber Governance Forum](https://gov.saber.so/c/governance/6).\n\nOnce you have determined that there is sufficient community support,\nadd the link to the discussion thread and create a proposal.\n"
     },
     "quarry": {
       "features": ["issue-tokens"],
