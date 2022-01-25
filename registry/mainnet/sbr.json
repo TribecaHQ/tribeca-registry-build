@@ -1,0 +1,113 @@
+{
+  "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
+  "description": "AMM for mean-reverting trading pairs on Solana",
+  "gauge": {
+    "gaugemeister": "28ZDtf6d2wsYhBvabTxUHTRT6MDxqjmqR7RMCp348tyU"
+  },
+  "govToken": {
+    "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "coingeckoId": "saber",
+      "discord": "https://chat.saber.so",
+      "github": "https://github.com/saber-hq",
+      "medium": "https://blog.saber.so",
+      "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+      "twitter": "https://twitter.com/saber_hq",
+      "waterfallbot": "https://bit.ly/SBRwaterfall",
+      "website": "https://saber.so"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+    "name": "Saber Protocol Token",
+    "symbol": "SBR"
+  },
+  "governance": {
+    "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
+    "description": "AMM for mean-reverting trading pairs on Solana",
+    "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+    "name": "Saber",
+    "network": "mainnet-beta",
+    "slug": "sbr",
+    "token": {
+      "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "saber",
+        "discord": "https://chat.saber.so",
+        "github": "https://github.com/saber-hq",
+        "medium": "https://blog.saber.so",
+        "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+        "twitter": "https://twitter.com/saber_hq",
+        "waterfallbot": "https://bit.ly/SBRwaterfall",
+        "website": "https://saber.so"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+      "name": "Saber Protocol Token",
+      "symbol": "SBR"
+    }
+  },
+  "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+  "links": {
+    "app": {
+      "label": "App",
+      "url": "https://app.saber.so"
+    },
+    "discord": {
+      "label": "Discord",
+      "url": "https://chat.saber.so"
+    },
+    "forum": {
+      "label": "Forum",
+      "url": "https://gov.saber.so"
+    },
+    "github": {
+      "label": "Github",
+      "url": "https://github.com/saber-hq"
+    },
+    "medium": {
+      "label": "Medium",
+      "url": "https://blog.saber.so"
+    },
+    "twitter": {
+      "label": "Twitter",
+      "url": "https://twitter.com/saber_hq"
+    },
+    "website": {
+      "label": "Website",
+      "url": "https://saber.so"
+    }
+  },
+  "minter": {
+    "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
+    "redeemer": "CL9wkGFT3SZRRNa9dgaovuRV7jrVVigBUZ6DjcgySsCU"
+  },
+  "name": "Saber",
+  "proposals": {
+    "discussion": {
+      "link": "https://gov.saber.so/c/governance/6",
+      "prefix": "https://gov.saber.so/t/",
+      "required": true
+    },
+    "notice": ""
+  },
+  "quarry": {
+    "features": [
+      "issue-tokens"
+    ],
+    "gauge": {
+      "gaugemeister": "28ZDtf6d2wsYhBvabTxUHTRT6MDxqjmqR7RMCp348tyU"
+    },
+    "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
+    "operator": {
+      "address": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
+      "features": [
+        "set-annual-rewards-rate"
+      ]
+    },
+    "redeemer": "CL9wkGFT3SZRRNa9dgaovuRV7jrVVigBUZ6DjcgySsCU",
+    "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk"
+  },
+  "slug": "sbr"
+}

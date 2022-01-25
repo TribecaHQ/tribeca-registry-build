@@ -20,11 +20,41 @@
       "symbol": "COW",
       "tags": ["governance-token"]
     },
+    "governance": {
+      "address": "EnWtE8QEWYGkbVknjodYmnZPFt7Fpk9U9cBRpXY5e1Gh",
+      "description": "Cashio’s Memecoin #gmoo",
+      "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+      "name": "Cash Cow DAO",
+      "network": "mainnet-beta",
+      "slug": "cow",
+      "token": {
+        "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "discord": "https://discord.com/invite/GmkRRKJkuh",
+          "medium": "https://medium.com/@cashioapp",
+          "twitter": "https://twitter.com/CashioApp",
+          "website": "https://cashio.app"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+        "name": "Cash Cow",
+        "symbol": "COW",
+        "tags": ["governance-token"]
+      }
+    },
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
     "minter": {
       "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo"
     },
     "name": "Cash Cow DAO",
+    "quarry": {
+      "features": [],
+      "gauge": {
+        "gaugemeister": "3zfW5niUjbGucfp81ksTwD7PHafadWXmUZWebQZWQnio"
+      },
+      "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo"
+    },
     "slug": "cow"
   },
   {
@@ -45,6 +75,30 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
       "name": "Pole Aggregator Governance Token",
       "symbol": "POLE"
+    },
+    "governance": {
+      "address": "3QdRG4feNfDqZ3GpSVGwW6hnSHb7AZ5BAcoKCpV9t2xr",
+      "description": "Leveraged Yield Aggregator on Solana",
+      "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
+      "name": "Pole",
+      "network": "mainnet-beta",
+      "slug": "pole",
+      "token": {
+        "address": "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "discord": "https://discord.gg/RASngHfHhS",
+          "github": "https://github.com/pole-finance",
+          "medium": "https://medium.com/pole-aggregator",
+          "serumV3Usdc": "Ak1UDskYAjztX5YkxW8dmERjLwS9fYmk1b3G6fpWDxp6",
+          "twitter": "https://twitter.com/Pole_Finance",
+          "website": "https://pole.finance"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
+        "name": "Pole Aggregator Governance Token",
+        "symbol": "POLE"
+      }
     },
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
     "name": "Pole",
@@ -75,15 +129,55 @@
       "name": "Port Finance Token",
       "symbol": "PORT"
     },
+    "governance": {
+      "address": "GmUCWNhPKo8tHNsvjPQkh9WyvUmACcdrwV8LApGeLRKb",
+      "description": "A suite of fixed-income products on Solana",
+      "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
+      "name": "Port",
+      "network": "mainnet-beta",
+      "slug": "port",
+      "token": {
+        "address": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "coingeckoId": "port-finance",
+          "discord": "https://discord.gg/nAMXAYhTb2",
+          "github": "https://github.com/port-finance/",
+          "medium": "https://medium.com/port-finance",
+          "serumV3Usdc": "8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko",
+          "telegram": "https://t.me/port_finance",
+          "twitter": "https://twitter.com/port_finance",
+          "waterfallbot": "https://bit.ly/PORTwaterfall",
+          "website": "https://port.finance/"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
+        "name": "Port Finance Token",
+        "symbol": "PORT"
+      }
+    },
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
     "links": {
-      "app": "https://mainnet.port.finance",
-      "website": "https://port.finance"
+      "app": {
+        "label": "App",
+        "url": "https://mainnet.port.finance"
+      },
+      "website": {
+        "label": "Website",
+        "url": "https://port.finance"
+      }
     },
     "minter": {
       "mintWrapper": "HV5q5fTPSQUugUg1xhNQkeviG1g9TL7SSANBizL6xx3W"
     },
     "name": "Port",
+    "quarry": {
+      "features": [],
+      "gauge": {
+        "gaugemeister": "72sErSoiCxLqEmM7Vg2VfJBAd5PVcEaAKti99fd1dRbo"
+      },
+      "mintWrapper": "HV5q5fTPSQUugUg1xhNQkeviG1g9TL7SSANBizL6xx3W"
+    },
     "slug": "port"
   },
   {
@@ -110,15 +204,62 @@
       "name": "Saber Protocol Token",
       "symbol": "SBR"
     },
+    "governance": {
+      "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
+      "description": "AMM for mean-reverting trading pairs on Solana",
+      "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+      "name": "Saber",
+      "network": "mainnet-beta",
+      "slug": "sbr",
+      "token": {
+        "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "coingeckoId": "saber",
+          "discord": "https://chat.saber.so",
+          "github": "https://github.com/saber-hq",
+          "medium": "https://blog.saber.so",
+          "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+          "twitter": "https://twitter.com/saber_hq",
+          "waterfallbot": "https://bit.ly/SBRwaterfall",
+          "website": "https://saber.so"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+        "name": "Saber Protocol Token",
+        "symbol": "SBR"
+      }
+    },
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
     "links": {
-      "app": "https://app.saber.so",
-      "discord": "https://chat.saber.so",
-      "forum": "https://gov.saber.so",
-      "github": "https://github.com/saber-hq",
-      "medium": "https://blog.saber.so",
-      "twitter": "https://twitter.com/saber_hq",
-      "website": "https://saber.so"
+      "app": {
+        "label": "App",
+        "url": "https://app.saber.so"
+      },
+      "discord": {
+        "label": "Discord",
+        "url": "https://chat.saber.so"
+      },
+      "forum": {
+        "label": "Forum",
+        "url": "https://gov.saber.so"
+      },
+      "github": {
+        "label": "Github",
+        "url": "https://github.com/saber-hq"
+      },
+      "medium": {
+        "label": "Medium",
+        "url": "https://blog.saber.so"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/saber_hq"
+      },
+      "website": {
+        "label": "Website",
+        "url": "https://saber.so"
+      }
     },
     "minter": {
       "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
@@ -126,7 +267,25 @@
     },
     "name": "Saber",
     "proposals": {
-      "requiredDiscussionLink": "https://gov.saber.so/c/saber-community-proposals/6"
+      "discussion": {
+        "link": "https://gov.saber.so/c/governance/6",
+        "prefix": "https://gov.saber.so/t/",
+        "required": true
+      },
+      "notice": ""
+    },
+    "quarry": {
+      "features": ["issue-tokens"],
+      "gauge": {
+        "gaugemeister": "28ZDtf6d2wsYhBvabTxUHTRT6MDxqjmqR7RMCp348tyU"
+      },
+      "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
+      "operator": {
+        "address": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
+        "features": ["set-annual-rewards-rate"]
+      },
+      "redeemer": "CL9wkGFT3SZRRNa9dgaovuRV7jrVVigBUZ6DjcgySsCU",
+      "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk"
     },
     "slug": "sbr"
   },
@@ -154,13 +313,56 @@
       "name": "Sunny Governance Token",
       "symbol": "SUNNY"
     },
+    "governance": {
+      "address": "8NDDbatDi5WxB433q3qyMMMYvjodMkCenGdTjkxuASyE",
+      "description": "Solana's cross-chain DeFi yield aggregator.",
+      "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+      "name": "Sunny Aggregator",
+      "network": "mainnet-beta",
+      "slug": "sunny",
+      "token": {
+        "address": "SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag",
+        "chainId": 101,
+        "decimals": 6,
+        "extensions": {
+          "coingeckoId": "sunny-aggregator",
+          "discord": "https://chat.sunny.ag",
+          "github": "https://github.com/SunnyAggregator",
+          "medium": "https://medium.com/sunny-aggregator",
+          "serumV3Usdc": "Aubv1QBFh4bwB2wbP1DaPW21YyQBLfgjg8L4PHTaPzRc",
+          "twitter": "https://twitter.com/SunnyAggregator",
+          "waterfallbot": "https://bit.ly/SUNNYwaterfall",
+          "website": "https://sunny.ag/"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
+        "name": "Sunny Governance Token",
+        "symbol": "SUNNY"
+      }
+    },
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SUNNYWgPQmFxe9wTZzNK7iPnJ3vYDrkgnxJRJm1s3ag/logo.svg",
     "links": {
-      "app": "https://app.sunny.ag",
-      "twitter": "https://twitter.com/SunnyAggregator",
-      "website": "https://sunny.ag"
+      "app": {
+        "label": "App",
+        "url": "https://app.sunny.ag"
+      },
+      "twitter": {
+        "label": "Twitter",
+        "url": "https://twitter.com/SunnyAggregator"
+      },
+      "website": {
+        "label": "Website",
+        "url": "https://sunny.ag"
+      }
     },
+    "minter": {},
     "name": "Sunny Aggregator",
+    "quarry": {
+      "features": [],
+      "gauge": {
+        "gaugemeister": "GBYZGgJks1re9BkJ8RB5QUMmmoyb7MsQ9ABFrgX5c5GZ"
+      },
+      "rewarder": "97PmYbGpSHSrKrUkQX793mjpA2EA9rrQKkHsQuvenU44"
+    },
     "slug": "sunny"
   }
 ]
