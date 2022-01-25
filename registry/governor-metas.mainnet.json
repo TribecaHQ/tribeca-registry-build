@@ -18,7 +18,9 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
       "name": "Cash Cow",
       "symbol": "COW",
-      "tags": ["governance-token"]
+      "tags": [
+        "governance-token"
+      ]
     },
     "governance": {
       "address": "EnWtE8QEWYGkbVknjodYmnZPFt7Fpk9U9cBRpXY5e1Gh",
@@ -40,7 +42,9 @@
         "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
         "name": "Cash Cow",
         "symbol": "COW",
-        "tags": ["governance-token"]
+        "tags": [
+          "governance-token"
+        ]
       }
     },
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
@@ -210,6 +214,21 @@
       "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
       "name": "Saber",
       "network": "mainnet-beta",
+      "parameters": {
+        "governor": {
+          "quorumVotes": "400000000000000",
+          "timelockDelay": 86400,
+          "votingDelay": 86400,
+          "votingPeriod": 259200
+        },
+        "locker": {
+          "maxStakeDuration": 157680000,
+          "maxStakeVoteMultiplier": 10,
+          "minStakeDuration": 604800,
+          "proposalActivationMinVotes": "10000000000000",
+          "whitelistEnabled": true
+        }
+      },
       "slug": "sbr",
       "token": {
         "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
@@ -275,14 +294,18 @@
       "notice": "To create a proposal, first make a post on the [Saber Governance Forum](https://gov.saber.so/c/governance/6).\n\nOnce you have determined that there is sufficient community support,\nadd the link to the discussion thread and create a proposal.\n"
     },
     "quarry": {
-      "features": ["issue-tokens"],
+      "features": [
+        "issue-tokens"
+      ],
       "gauge": {
         "gaugemeister": "28ZDtf6d2wsYhBvabTxUHTRT6MDxqjmqR7RMCp348tyU"
       },
       "mintWrapper": "EVVDA3ZiAjTizemLGXNUN3gb6cffQFEYkFjFZokPmUPz",
       "operator": {
         "address": "GdW7Accmjusk8qKUPoCMJasEje63h97igqkjdEpacpRN",
-        "features": ["set-annual-rewards-rate"]
+        "features": [
+          "set-annual-rewards-rate"
+        ]
       },
       "redeemer": "CL9wkGFT3SZRRNa9dgaovuRV7jrVVigBUZ6DjcgySsCU",
       "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk"

@@ -28,6 +28,21 @@
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
     "name": "Saber",
     "network": "mainnet-beta",
+    "parameters": {
+      "governor": {
+        "quorumVotes": "400000000000000",
+        "timelockDelay": 86400,
+        "votingDelay": 86400,
+        "votingPeriod": 259200
+      },
+      "locker": {
+        "maxStakeDuration": 157680000,
+        "maxStakeVoteMultiplier": 10,
+        "minStakeDuration": 604800,
+        "proposalActivationMinVotes": "10000000000000",
+        "whitelistEnabled": true
+      }
+    },
     "slug": "sbr",
     "token": {
       "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
