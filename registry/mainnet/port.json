@@ -86,7 +86,8 @@
     "gauge": {
       "gaugemeister": "72sErSoiCxLqEmM7Vg2VfJBAd5PVcEaAKti99fd1dRbo"
     },
-    "mintWrapper": "HV5q5fTPSQUugUg1xhNQkeviG1g9TL7SSANBizL6xx3W"
+    "mintWrapper": "HV5q5fTPSQUugUg1xhNQkeviG1g9TL7SSANBizL6xx3W",
+    "rewarder": "GuHrjvzqDvLTB27ebd9iFKwceCxKvSswzTByDQUTsvdm"
   },
   "slug": "port"
 }
