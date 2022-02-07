@@ -1,6 +1,9 @@
 {
   "address": "3QdRG4feNfDqZ3GpSVGwW6hnSHb7AZ5BAcoKCpV9t2xr",
   "description": "Leveraged Yield Aggregator on Solana",
+  "gauge": {
+    "gaugemeister": "GbaiXZj8qmBA6aRScfDTx23K9VX2AgQqfJ74qdTtDHUr"
+  },
   "govToken": {
     "address": "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3",
     "chainId": 101,
@@ -56,6 +59,9 @@
   "name": "Pole",
   "quarry": {
     "features": [],
+    "gauge": {
+      "gaugemeister": "GbaiXZj8qmBA6aRScfDTx23K9VX2AgQqfJ74qdTtDHUr"
+    },
     "rewarder": "3ahWtCwoyv4HHYdDtSzSPzD8DDo6jJKqEmPJrdztFnw4"
   },
   "slug": "pole"
