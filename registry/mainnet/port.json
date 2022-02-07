@@ -56,6 +56,22 @@
       "label": "App",
       "url": "https://mainnet.port.finance"
     },
+    "discord": {
+      "label": "Discord",
+      "url": "https://discord.gg/nAMXAYhTb2"
+    },
+    "github": {
+      "label": "Github",
+      "url": "https://github.com/port-finance/"
+    },
+    "medium": {
+      "label": "Medium",
+      "url": "https://medium.com/port-finance"
+    },
+    "twitter": {
+      "label": "Twitter",
+      "url": "https://twitter.com/port_finance"
+    },
     "website": {
       "label": "Website",
       "url": "https://port.finance"
