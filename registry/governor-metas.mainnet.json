@@ -105,7 +105,22 @@
       }
     },
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
+    "links": {
+      "app": {
+        "label": "App",
+        "url": "https://app.pole.finance"
+      },
+      "website": {
+        "label": "Website",
+        "url": "https://pole.finance"
+      }
+    },
+    "minter": {},
     "name": "Pole",
+    "quarry": {
+      "features": [],
+      "rewarder": "3ahWtCwoyv4HHYdDtSzSPzD8DDo6jJKqEmPJrdztFnw4"
+    },
     "slug": "pole"
   },
   {
