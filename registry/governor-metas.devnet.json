@@ -44,6 +44,12 @@
     },
     "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
     "name": "Saber",
+    "saves": [
+      {
+        "duration": 31536000,
+        "mint": "ESm4AoqMaJ8aJR6nNvd7h45hcv83VpC9G6awj8CiDUBT"
+      }
+    ],
     "slug": "sbr"
   }
 ]
