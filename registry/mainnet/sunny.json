@@ -83,11 +83,11 @@
   "name": "Sunny Aggregator",
   "proposals": {
     "discussion": {
-      "link": "https://github.com/SunnyAggregator/forum/discussions/categories/dao-proposals",
-      "prefix": "https://github.com/SunnyAggregator/forum/discussions",
+      "link": "https://github.com/SunnyAggregator/governance/labels/proposal",
+      "prefix": "https://github.com/SunnyAggregator/governance/issues/",
       "required": true
     },
-    "notice": "To create a proposal, first make a post on the [Sunny Aggregator Governance Forum](https://github.com/SunnyAggregator/forums/discussions/new?category=dao-proposals).\n\nOnce you have determined that there is sufficient community support,\nadd the link to the discussion thread and create a proposal.\n"
+    "notice": "To create a proposal, first make a post on the [Sunny Aggregator Governance Forum](https://github.com/SunnyAggregator/governance/issues/new?assignees=&labels=&template=governance-proposal.md&title=%5BPROPOSAL%5D).\n\nOnce you have determined that there is sufficient community support,\nadd the link to the discussion thread and create a proposal.\n"
   },
   "quarry": {
     "features": [],
