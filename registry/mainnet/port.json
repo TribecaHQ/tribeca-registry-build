@@ -82,6 +82,7 @@
   },
   "name": "Port",
   "quarry": {
+    "additionalRewarders": [],
     "features": [],
     "gauge": {
       "gaugemeister": "72sErSoiCxLqEmM7Vg2VfJBAd5PVcEaAKti99fd1dRbo"

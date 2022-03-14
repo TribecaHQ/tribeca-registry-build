@@ -52,6 +52,7 @@
   },
   "name": "Cash Cow DAO",
   "quarry": {
+    "additionalRewarders": [],
     "features": [],
     "gauge": {
       "gaugemeister": "3zfW5niUjbGucfp81ksTwD7PHafadWXmUZWebQZWQnio"

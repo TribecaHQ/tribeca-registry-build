@@ -58,6 +58,7 @@
   "minter": {},
   "name": "Pole",
   "quarry": {
+    "additionalRewarders": [],
     "features": [],
     "gauge": {
       "gaugemeister": "GbaiXZj8qmBA6aRScfDTx23K9VX2AgQqfJ74qdTtDHUr"
