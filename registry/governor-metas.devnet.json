@@ -57,6 +57,14 @@
         "url": "https://marinade.finance"
       }
     },
+    "mndeNftLocker": {
+      "address": "AubdDhbn4a1FrJbXoFw1fwLWrrhKm4WMUU9DKX6gkcz6",
+      "app": "https://dev.marinade.finance/app/mnde/lock",
+      "creators": [
+        "4eopmn89uciMvKzGYwkFBMXVpLCjnGda7uWo5uZqQCFF"
+      ],
+      "docs": "https://docs.marinade.finance/governance"
+    },
     "name": "Marinade",
     "proposals": {
       "discussion": {
@@ -66,15 +74,7 @@
       },
       "notice": "To create a proposal, first make a post on the [Marinade Governance Forum](https://forum.marinade.finance/).\n\n\nOnce you have determined that there is sufficient community support,\n\nadd the link to the discussion thread and create a proposal.\n\n"
     },
-    "slug": "mnde",
-    "tokenLocker": {
-      "address": "AubdDhbn4a1FrJbXoFw1fwLWrrhKm4WMUU9DKX6gkcz6",
-      "app": "https://dev.marinade.finance/app/mnde/lock",
-      "creators": [
-        "4eopmn89uciMvKzGYwkFBMXVpLCjnGda7uWo5uZqQCFF"
-      ],
-      "docs": "https://docs.marinade.finance/governance"
-    }
+    "slug": "mnde"
   },
   {
     "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
