@@ -21,7 +21,11 @@
     "chainId": 101,
     "decimals": 9,
     "extensions": {
+      "coingeckoId": "acumen",
+      "discord": "https://discord.com/invite/UXDnngxRmn",
+      "medium": "https://acumenofficial.medium.com/",
       "serumV3Usdc": "94CZWJMy7Jmc7gSM288WmFfse596H12KCKgwMARkyvhw",
+      "twitter": "https://twitter.com/acumenofficial",
       "website": "https://acumen.network/"
     },
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ACUMENkbnxQPAsN8XrNA11sY3NmXDNKVCqS82EiDqMYB/logo3.svg",
@@ -40,7 +44,11 @@
       "chainId": 101,
       "decimals": 9,
       "extensions": {
+        "coingeckoId": "acumen",
+        "discord": "https://discord.com/invite/UXDnngxRmn",
+        "medium": "https://acumenofficial.medium.com/",
         "serumV3Usdc": "94CZWJMy7Jmc7gSM288WmFfse596H12KCKgwMARkyvhw",
+        "twitter": "https://twitter.com/acumenofficial",
         "website": "https://acumen.network/"
       },
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ACUMENkbnxQPAsN8XrNA11sY3NmXDNKVCqS82EiDqMYB/logo3.svg",
