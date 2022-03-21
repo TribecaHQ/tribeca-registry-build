@@ -471,6 +471,9 @@
   {
     "address": "CbGthriWTbZFYT6Mro1de7hwHLGWC5f8huMjgBuCRUsh",
     "description": "The gateway to Anchor interest bearing assets on Solana",
+    "gauge": {
+      "gaugemeister": "Gc7hPSbWNT8zBwpSCWKcb5gv7WHHqFkTJVsbPWxD2qyA"
+    },
     "govToken": {
       "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
       "chainId": 101,
@@ -546,6 +549,9 @@
     "quarry": {
       "additionalRewarders": [],
       "features": [],
+      "gauge": {
+        "gaugemeister": "Gc7hPSbWNT8zBwpSCWKcb5gv7WHHqFkTJVsbPWxD2qyA"
+      },
       "mintWrapper": "DvZudaVyiZhpL8W6BnsaFaJp6jWV8nDMhQGfkXKXBpXA",
       "operator": {
         "address": "H4VXFyfeUDahSokaE9mjGUaP6UDREqyXcjiHWmfq9yQs",
