@@ -1,5 +1,13 @@
 {
   "address": "8NDDbatDi5WxB433q3qyMMMYvjodMkCenGdTjkxuASyE",
+  "addresses": {
+    "emergency-dao": {
+      "address": "FE61NQa1pz2axEaxdySK4ZZQdo8sastWx3xN8ZCxXfGM",
+      "description": "Multisig which can override the vote governance process in case of emergency.",
+      "label": "Emergency DAO",
+      "type": "smart-wallet"
+    }
+  },
   "description": "Solana's cross-chain DeFi yield aggregator.",
   "gauge": {
     "gaugemeister": "GBYZGgJks1re9BkJ8RB5QUMmmoyb7MsQ9ABFrgX5c5GZ"

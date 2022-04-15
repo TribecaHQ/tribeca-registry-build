@@ -99,7 +99,7 @@
         "twitter": "https://twitter.com/CashioApp",
         "website": "https://cashio.app"
       },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
       "name": "Cash Cow",
       "symbol": "COW",
       "tags": [
@@ -109,7 +109,7 @@
     "governance": {
       "address": "EnWtE8QEWYGkbVknjodYmnZPFt7Fpk9U9cBRpXY5e1Gh",
       "description": "Cashio’s Memecoin #gmoo",
-      "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
       "name": "Cash Cow DAO",
       "network": "mainnet-beta",
       "slug": "cow",
@@ -123,7 +123,7 @@
           "twitter": "https://twitter.com/CashioApp",
           "website": "https://cashio.app"
         },
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+        "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
         "name": "Cash Cow",
         "symbol": "COW",
         "tags": [
@@ -131,7 +131,7 @@
         ]
       }
     },
-    "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+    "iconURL": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
     "minter": {
       "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo"
     },
@@ -480,14 +480,17 @@
         "waterfallbot": "https://bit.ly/SBRwaterfall",
         "website": "https://saber.so"
       },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+      "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
       "name": "Saber Protocol Token",
-      "symbol": "SBR"
+      "symbol": "SBR",
+      "tags": [
+        "saber-hidden"
+      ]
     },
     "governance": {
       "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
       "description": "AMM for mean-reverting trading pairs on Solana",
-      "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+      "iconURL": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
       "name": "Saber",
       "network": "mainnet-beta",
       "parameters": {
@@ -520,12 +523,15 @@
           "waterfallbot": "https://bit.ly/SBRwaterfall",
           "website": "https://saber.so"
         },
-        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+        "logoURI": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
         "name": "Saber Protocol Token",
-        "symbol": "SBR"
+        "symbol": "SBR",
+        "tags": [
+          "saber-hidden"
+        ]
       }
     },
-    "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+    "iconURL": "https://spl-token-icons.static-assets.ship.capital/icons/101/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1.svg",
     "links": {
       "app": {
         "label": "App",
@@ -806,6 +812,14 @@
   },
   {
     "address": "8NDDbatDi5WxB433q3qyMMMYvjodMkCenGdTjkxuASyE",
+    "addresses": {
+      "emergency-dao": {
+        "address": "FE61NQa1pz2axEaxdySK4ZZQdo8sastWx3xN8ZCxXfGM",
+        "description": "Multisig which can override the vote governance process in case of emergency.",
+        "label": "Emergency DAO",
+        "type": "smart-wallet"
+      }
+    },
     "description": "Solana's cross-chain DeFi yield aggregator.",
     "gauge": {
       "gaugemeister": "GBYZGgJks1re9BkJ8RB5QUMmmoyb7MsQ9ABFrgX5c5GZ"

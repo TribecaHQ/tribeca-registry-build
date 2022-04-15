@@ -14,7 +14,7 @@
       "twitter": "https://twitter.com/CashioApp",
       "website": "https://cashio.app"
     },
-    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+    "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
     "name": "Cash Cow",
     "symbol": "COW",
     "tags": [
@@ -24,7 +24,7 @@
   "governance": {
     "address": "EnWtE8QEWYGkbVknjodYmnZPFt7Fpk9U9cBRpXY5e1Gh",
     "description": "Cashio’s Memecoin #gmoo",
-    "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+    "iconURL": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
     "name": "Cash Cow DAO",
     "network": "mainnet-beta",
     "slug": "cow",
@@ -38,7 +38,7 @@
         "twitter": "https://twitter.com/CashioApp",
         "website": "https://cashio.app"
       },
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+      "logoURI": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
       "name": "Cash Cow",
       "symbol": "COW",
       "tags": [
@@ -46,7 +46,7 @@
       ]
     }
   },
-  "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP/icon.png",
+  "iconURL": "https://raw.githubusercontent.com/cashioapp/cashio-token-list/main/assets/cow.png",
   "minter": {
     "mintWrapper": "GVtygEvQRRxXCbeNEwVHkCzdt8jswr7T2gYLNtJnhGHo"
   },

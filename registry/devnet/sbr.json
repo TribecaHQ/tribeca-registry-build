@@ -15,7 +15,8 @@
     },
     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
     "name": "Saber Protocol Token",
-    "symbol": "SBR"
+    "symbol": "SBR",
+    "tags": []
   },
   "governance": {
     "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
@@ -38,7 +39,8 @@
       },
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
       "name": "Saber Protocol Token",
-      "symbol": "SBR"
+      "symbol": "SBR",
+      "tags": []
     }
   },
   "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
