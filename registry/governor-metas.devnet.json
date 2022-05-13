@@ -1,6 +1,6 @@
 [
   {
-    "address": "9tpxghZQb3jkQsMK8S1XbiBK1rYTZpF6USxi7exk3iFE",
+    "address": "3mnaXERbCiKkj4XLgpv682YK3o5Cjqti1NxRyoVNLnJp",
     "description": "Liquidity staking to secure and decentralize Solana",
     "govToken": {
       "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
@@ -11,7 +11,7 @@
       "symbol": "MNDE"
     },
     "governance": {
-      "address": "9tpxghZQb3jkQsMK8S1XbiBK1rYTZpF6USxi7exk3iFE",
+      "address": "3mnaXERbCiKkj4XLgpv682YK3o5Cjqti1NxRyoVNLnJp",
       "description": "Liquidity staking to secure and decentralize Solana",
       "iconURL": "https://raw.githubusercontent.com/marinade-finance/liquid-staking-program/main/Docs/img/MNDE.png",
       "name": "Marinade",
@@ -58,17 +58,17 @@
       }
     },
     "mndeNftLocker": {
-      "address": "7HzyVxvezybFC6M9LV3Cs8Xwvhq2s3zF4SGiCCz6s7u5",
+      "address": "rLmyBAjCYR1MNc3KSG77y5XXT2DuMxkcxfqLYvjjJCs",
       "app": "https://dev.marinade.finance/app/mnde",
       "creators": [
-        "96W1g7ab6ZCbMJGdmxBtHjm7eo1jnZN9ouvQmTbHhytC"
+        "6jG2QcwaJPFS8Y9SzgH2kfKPj6ERhLi9RVtH8kRahj4j"
       ],
       "docs": "https://docs.marinade.finance/governance"
     },
     "name": "Marinade",
     "nftLockerGauges": [
       {
-        "address": "g9MDc1H6bBxGRNFi31n97W8PbKp3KcK5Nx4QviVpLmp",
+        "address": "F96CWJKiJGbEmzHBByiPpRAMxsXyD7e4bALpaEaEjhE8",
         "docs": "https://docs.marinade.finance/governance/gauges",
         "label": "Validator",
         "stateAccount": "8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC"
