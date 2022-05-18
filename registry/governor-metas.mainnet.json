@@ -600,6 +600,14 @@
       "docs": "https://docs.marinade.finance/governance"
     },
     "name": "Marinade",
+    "nftLockerGauges": [
+      {
+        "address": "mvgmBamY7hDWxLNGLshMoZn8nt2P8tKnKhaBeXMVajZ",
+        "docs": "https://docs.marinade.finance/governance/gauges",
+        "label": "Validator",
+        "stateAccount": "8szGkuLTAux9XMgZ2vtY39jVSowEcpBfFfD8hXSEqdGC"
+      }
+    ],
     "proposals": {
       "discussion": {
         "link": "https://forum.marinade.finance/",
