@@ -106,7 +106,7 @@
     },
     "forum": {
       "label": "Forum",
-      "url": "https://gov.saber.so"
+      "url": "https://github.com/saber-hq/governance/discussions/"
     },
     "github": {
       "label": "Github",
@@ -132,11 +132,11 @@
   "name": "Saber",
   "proposals": {
     "discussion": {
-      "link": "https://gov.saber.so/c/governance/6",
-      "prefix": "https://gov.saber.so/t/",
+      "link": "https://github.com/saber-hq/governance/labels/proposal",
+      "prefix": "https://github.com/saber-hq/governance/issues/",
       "required": true
     },
-    "notice": "To create a proposal, first make a post on the [Saber Governance Forum](https://gov.saber.so/c/governance/6).\n\nOnce you have determined that there is sufficient community support,\nadd the link to the discussion thread and create a proposal.\n"
+    "notice": "To create a proposal, first make a post on the [Saber Governance Forum](https://github.com/saber-hq/governance/labels/proposal).\n\nOnce you have determined that there is sufficient community support,\nadd the link to the discussion thread and create a proposal.\n"
   },
   "quarry": {
     "additionalRewarders": [
