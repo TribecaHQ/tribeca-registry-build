@@ -915,7 +915,7 @@
     "name": "Saber",
     "proposals": {
       "discussion": {
-        "link": "https://github.com/saber-hq/governance/labels/proposal",
+        "link": "https://github.com/saber-hq/governance/issues/new?assignees=&labels=proposal&template=governance-proposal.md&title=%5BPROPOSAL%5D",
         "prefix": "https://github.com/saber-hq/governance/issues/",
         "required": true
       },
