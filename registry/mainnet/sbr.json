@@ -136,7 +136,7 @@
       "prefix": "https://github.com/saber-hq/governance/issues/",
       "required": true
     },
-    "notice": "To create a proposal, first make a post on the [Saber Governance Forum](https://github.com/saber-hq/governance/labels/proposal).\n\nOnce you have determined that there is sufficient community support,\nadd the link to the discussion thread and create a proposal.\n"
+    "notice": "To create a proposal, first make a proposal on the [Saber Governance Forum](https://github.com/saber-hq/governance/issues/new?assignees=&labels=proposal&template=governance-proposal.md&title=%5BPROPOSAL%5D).\n\nOnce you have determined that there is sufficient community support,\nadd the link to the discussion thread and create a proposal.\n"
   },
   "quarry": {
     "additionalRewarders": [
