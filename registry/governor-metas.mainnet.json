@@ -602,6 +602,11 @@
     "name": "Marinade",
     "nftLockerGauges": [
       {
+        "address": "7Er1bdJU1Rd5ZuXctcp8BjnZkGQGVJT6gX46pcvqhXKT",
+        "docs": "https://docs.marinade.finance/governance/gauges",
+        "label": "Liquidity"
+      },
+      {
         "address": "mvgmBamY7hDWxLNGLshMoZn8nt2P8tKnKhaBeXMVajZ",
         "docs": "https://docs.marinade.finance/governance/gauges",
         "label": "Validator",
