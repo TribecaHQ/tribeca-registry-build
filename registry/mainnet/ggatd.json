@@ -80,7 +80,7 @@
   "links": {
     "discord": {
       "label": "Discord",
-      "url": "https://discord.gg/GQXjkzHwVH"
+      "url": "https://discord.gg/gargantua"
     },
     "instagram": {
       "label": "Instagram",
@@ -106,11 +106,11 @@
   "name": "GGA Test DAO",
   "proposals": {
     "discussion": {
-      "link": "https://discord.gg/k3UtYYzcvu",
-      "prefix": "https://discord.gg/k3UtYYzcvu/",
+      "link": "https://discord.com/channels/886489194967474206/979831643470704680/",
+      "prefix": "https://discord.com/channels/886489194967474206/979831643470704680/",
       "required": true
     },
-    "notice": "To create a proposal, first make a post on the [GGA Discord](https://discord.gg/k3UtYYzcvu).\nOnce you have determined that there is sufficient community support,\nadd the link to the discussion thread and create a proposal.\n"
+    "notice": "To create a proposal, first make a post on the [GGA Discord](https://discord.gg/gargantua).\nOnce you have determined that there is sufficient community support,\nadd the link to the discussion thread and create a proposal.\n"
   },
   "slug": "ggatd"
 }
